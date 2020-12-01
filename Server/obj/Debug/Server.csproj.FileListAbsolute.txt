@@ -1,0 +1,12 @@
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\bin\Debug\Server.exe.config
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\bin\Debug\Server.exe
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\bin\Debug\Server.pdb
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\obj\Debug\Server.exe
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\obj\Debug\Server.pdb
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\bin\Debug\EntityFramework.dll
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\bin\Debug\EntityFramework.xml
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\D\Саша\Мережеве програмування\Homework3\Homework\Server\obj\Debug\Server.csproj.CopyComplete

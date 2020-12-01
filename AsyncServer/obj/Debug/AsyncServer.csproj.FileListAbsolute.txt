@@ -1,0 +1,12 @@
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\bin\Debug\AsyncServer.exe.config
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\bin\Debug\AsyncServer.exe
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\bin\Debug\AsyncServer.pdb
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\bin\Debug\EntityFramework.dll
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\bin\Debug\EntityFramework.xml
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\obj\Debug\AsyncServer.csprojAssemblyReference.cache
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\obj\Debug\AsyncServer.csproj.CoreCompileInputs.cache
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\obj\Debug\AsyncServer.csproj.CopyComplete
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\obj\Debug\AsyncServer.exe
+C:\D\Саша\Мережеве програмування\Homework3\Homework\AsyncServer\obj\Debug\AsyncServer.pdb

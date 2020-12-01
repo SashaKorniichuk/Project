@@ -1,0 +1,85 @@
+﻿<Window x:Class="Client2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <DockPanel Background="red" Grid.Row="0">
+                <Label DockPanel.Dock="Top" Height="100" HorizontalAlignment="Center" FontSize="30">Жанр</Label>
+                <ComboBox Name="RedBox" FontSize="30">
+                    <ComboBoxItem>
+                        <TextBlock>Shooter</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Strategy</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Simulator</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Horror</TextBlock>
+                    </ComboBoxItem>
+                </ComboBox>
+            </DockPanel>
+            <DockPanel Background="red" Grid.Row="1">
+
+                <Label DockPanel.Dock="Top" Height="50" HorizontalAlignment="Center" FontSize="30">Ігри</Label>
+                <ListBox Name="List" DockPanel.Dock="Top" Height="100">
+                </ListBox>
+                <Button Background="red" DockPanel.Dock="Bottom" FontSize="30" Click="Button_Click">Select </Button>
+            </DockPanel>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <DockPanel Background="Green" Grid.Row="0">
+                <Label DockPanel.Dock="Top" Height="100" HorizontalAlignment="Center" FontSize="30">Iгрa</Label>
+                <ComboBox Name="GreenBox" FontSize="30">
+                    <ComboBoxItem>
+                        <TextBlock>Call Of Duty1</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Call Of Duty2</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Bus simulator</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Car simulator</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Chess</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Checkers</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Granny</TextBlock>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <TextBlock>Sweet Home</TextBlock>
+                    </ComboBoxItem>
+                </ComboBox>
+            </DockPanel>
+            <DockPanel Background="Green" Grid.Row="1">
+                <Label DockPanel.Dock="Top" Height="50" HorizontalAlignment="Center" FontSize="30">Жанр</Label>
+                <Label Name="label" Height="100" DockPanel.Dock="Top" Background="White" FontSize="50"> </Label>
+                <Button Background="Green" DockPanel.Dock="Bottom" FontSize="30" Click="Button_Click_1">Select</Button>
+            </DockPanel>
+        </Grid>
+    </Grid>
+</Window>
