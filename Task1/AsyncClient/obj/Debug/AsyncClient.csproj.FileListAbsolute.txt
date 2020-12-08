@@ -1,0 +1,14 @@
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\AsyncClient\bin\Debug\AsyncClient.exe.config
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\AsyncClient\bin\Debug\AsyncClient.exe
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\AsyncClient\bin\Debug\AsyncClient.pdb
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\AsyncClient\obj\Debug\AsyncClient.csprojAssemblyReference.cache
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\AsyncClient\obj\Debug\AsyncClient.csproj.CoreCompileInputs.cache
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\AsyncClient\obj\Debug\AsyncClient.exe
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\AsyncClient\obj\Debug\AsyncClient.pdb
+C:\D\Саша\Мережеве програмування\Classwork1\Task1\AsyncClient\bin\Debug\AsyncClient.exe.config
+C:\D\Саша\Мережеве програмування\Classwork1\Task1\AsyncClient\bin\Debug\AsyncClient.exe
+C:\D\Саша\Мережеве програмування\Classwork1\Task1\AsyncClient\bin\Debug\AsyncClient.pdb
+C:\D\Саша\Мережеве програмування\Classwork1\Task1\AsyncClient\obj\Debug\AsyncClient.csprojAssemblyReference.cache
+C:\D\Саша\Мережеве програмування\Classwork1\Task1\AsyncClient\obj\Debug\AsyncClient.csproj.CoreCompileInputs.cache
+C:\D\Саша\Мережеве програмування\Classwork1\Task1\AsyncClient\obj\Debug\AsyncClient.exe
+C:\D\Саша\Мережеве програмування\Classwork1\Task1\AsyncClient\obj\Debug\AsyncClient.pdb

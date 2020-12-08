@@ -1,0 +1,7 @@
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\ConsoleApp1\obj\Debug\AsyncServer.csprojAssemblyReference.cache
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\ConsoleApp1\obj\Debug\AsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\dev.itstep\Desktop\СПУ926\Task1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
